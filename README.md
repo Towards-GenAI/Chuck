@@ -29,7 +29,7 @@ To embark on your journey of building an AI-powered chat application using this 
 
 2. **Set Up Virtual Environment**: Create a virtual environment and activate it to ensure a clean and isolated development environment. This step helps avoid conflicts with other Python projects on your system.
 
-3. **Configure Environment Variables** (Optional): Rename the `example.env` file to `.env` and input the necessary environment variables from LangSmith. If you haven't already, create an account on the LangSmith website to obtain the required API key. Additionally, obtain the Groq API key from the provided link.
+3. **Configure Environment Variables** (Optional): Rename the `test.env` file to `.env` and input the necessary environment variables from LangSmith. If you haven't already, create an account on the LangSmith website to obtain the required API key. Additionally, obtain the Groq API key from the provided link.
 
 4. **Install Dependencies**: Run the command `pip install -r requirements.txt` to install all the required Python packages. This step ensures that you have all the necessary dependencies to run the chat application smoothly.
 
